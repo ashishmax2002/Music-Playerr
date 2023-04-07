@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Beats Pliz','I Like it','Mortal Kombat','Motorsport','PUBG Theme Song','Trvp OR Die'];
+const songs = ['Beats Pliz','I Like it','Mortal Kombat','Motorsport','PUBG Theme Song','See You Again','Trvp OR Die'];
 
 // Keep track of song
 let songIndex =1;
